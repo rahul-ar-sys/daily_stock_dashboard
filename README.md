@@ -8,7 +8,7 @@ This Python project retrieves and visualizes historical stock price data for Mic
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-
+- [Project Structure](#project-structure)
 
 
 ## Installation
@@ -19,6 +19,15 @@ To run this project, you'll need to have Python and the required libraries insta
 pip install pandas yfinance plotly
 ```
 Additionally, you need to have the yfinance library installed, which provides access to Yahoo Finance data.
+## Usage
+### 1.Clone this repository to your local machine:
+```git clone https://github.com/rahul-ar-sys/daily_stock_dashboard.git
+```
+### 2.Navigate to the project directory:
+```cd daily_stock_dashboard
+```
+### 3.Run the Python script:
+``` python main.py```
 ## Dependencies
 The project relies on the following Python libraries:
 
@@ -30,3 +39,9 @@ Provides access to Yahoo Finance data.
 Used for creating interactive charts and visualizations.
 
 ### You can install these dependencies using the provided installation instructions.
+
+## Project Structure
+The project consists of the following files:
+stock_visualization.py: The main Python script for data retrieval and visualization.
+README.md: This documentation file.
+
