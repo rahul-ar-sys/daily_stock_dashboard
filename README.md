@@ -21,10 +21,12 @@ pip install pandas yfinance plotly
 Additionally, you need to have the yfinance library installed, which provides access to Yahoo Finance data.
 ## Usage
 ### 1.Clone this repository to your local machine:
-```git clone https://github.com/rahul-ar-sys/daily_stock_dashboard.git
+```
+git clone https://github.com/rahul-ar-sys/daily_stock_dashboard.git
 ```
 ### 2.Navigate to the project directory:
-```cd daily_stock_dashboard
+```
+cd daily_stock_dashboard
 ```
 ### 3.Run the Python script:
 ``` python main.py```
